@@ -28,14 +28,14 @@ def logo():
 def help():
  print("""
   Commands :
-       set HOST       : Set Your Host (e.g set HOST 127.0.0.1)
+       set HOST       : Set Your Host (e.g set HOST 116.206.15.44)
        set PORT       : Set Your Port (e.g set PORT 1337)
        set OUTPUT     : Set Your Output Name And Path (e.g set OUTPUT /home/payload)
        show values    : Show Host, Port And Output Value
        start listener : Start Your Conection Server 
 
   Please Report This bug To My FB
-  FB : https://m.facebook.com/sefina.dewi
+  FB : https://m.facebook.com/lovwyne
   FP : https://m.facebook.com/androsec1337cyberteam\n""")
        
 def main():
